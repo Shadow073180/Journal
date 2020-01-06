@@ -1,3 +1,3 @@
 # Journal_API
 
-Basic Journal App
+Basic Journal App backend API
